@@ -1,0 +1,52 @@
+{
+    "projectConnect": [
+      {
+        "id": 1,
+        "name": "School A",
+        "country": "Country A",
+        "connected": "Yes",
+        "lat": "45264EZ",
+        "lng": "45264EZ"
+      },
+      {
+        "id": 2,
+        "name": "School A",
+        "country": "Country A",
+        "connected": "Yes",
+        "lat": "45274E",
+        "lng": "45264EZ"
+      },
+      {
+        "id": 3,
+        "name": "School A",
+        "country": "Country A",
+        "connected": "Yes",
+        "lat": "45264E",
+        "lng": "45264EZ"
+      },
+      {
+        "id": 4,
+        "name": "School A",
+        "country": "Country A",
+        "connected": "Yes",
+        "lat": "45264E",
+        "lng": "45264EZ"
+      },
+      {
+        "id": 5,
+        "name": "School A",
+        "country": "Country A",
+        "connected": "Yes",
+        "lat": "45264E",
+        "lng": "45264EZ"
+      },
+      {
+        "id": 6,
+        "name": "School A",
+        "country": "Country A",
+        "connected": "Yes",
+        "lat": "45264E",
+        "lng": "45264EZ"
+      }
+    ]
+  }
